@@ -56,6 +56,7 @@ public class State : MonoBehaviour
             Animator anim = Cebra.GetComponent<Animator>();
             anim.SetTrigger("dead");
             dead = true;
+            Destroy(Cebra);
         }
 
         if ((Mathf.RoundToInt(time) == (20 * indice)) && !dead)
