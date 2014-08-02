@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: d88bc5b4b6e222047a2221113b633579
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 750
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Personajes 01_0
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 4466
+        width: 759
+        height: 833
+      alignment: 9
+      pivot: {x: .43082118, y: .210046515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_1
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 4472
+        width: 1004
+        height: 1156
+      alignment: 9
+      pivot: {x: .45816198, y: .772526383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_2
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 4721
+        width: 771
+        height: 720
+      alignment: 9
+      pivot: {x: .4591389, y: .266636163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3462
+        width: 692
+        height: 527
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_4
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 3354
+        width: 516
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_5
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 3275
+        width: 431
+        height: 437
+      alignment: 9
+      pivot: {x: .234520018, y: .88006717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2073
+        width: 817
+        height: 1015
+      alignment: 9
+      pivot: {x: .395299077, y: .331446767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_7
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 2906
+        width: 794
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_8
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 2385
+        width: 303
+        height: 515
+      alignment: 9
+      pivot: {x: .289961308, y: .899805665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_9
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 1931
+        width: 766
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 876
+        height: 1213
+      alignment: 9
+      pivot: {x: .388400853, y: .238068253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_11
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1449
+        width: 833
+        height: 578
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_12
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 888
+        width: 743
+        height: 748
+      alignment: 9
+      pivot: {x: .302636445, y: .189595595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_13
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 973
+        width: 794
+        height: 453
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Personajes 01_14
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 462
+        width: 346
+        height: 476
+      alignment: 9
+      pivot: {x: .289376497, y: .906508744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
